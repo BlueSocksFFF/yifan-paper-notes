@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "12425.github.io",
+    baseUrl: "BlueSocksFFF.github.io/yifan-paper-notes",
     ignorePatterns: ["private", "templates", ".obsidian", "Projects", "Tools", "Connections", "Summaries", "Inbox", "00-Meta"],
     defaultDateType: "modified",
     theme: {
